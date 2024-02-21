@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    margin: auto;
+    background-color: #3498db;
+    color: #fff;
+    width: 90%;
+    height: 50px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .search-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .error {
+    color: #ff0000;
+  }
+  
